@@ -27,10 +27,10 @@
   </profiles>
 
   <servers>
-    <server>
-      <id>github</id>
-      <username>Aluve-Software</username>
-      <password>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</password>
-    </server>
-  </servers>
+        <server>
+            <id>github</id>
+            <username>Aluve-Software</username>
+            <password>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</password>
+        </server>
+    </servers>
 </settings>
