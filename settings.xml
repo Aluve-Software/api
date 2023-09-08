@@ -17,7 +17,7 @@
         </repository>
         <repository>
           <id>github</id>
-          <url>https://maven.pkg.github.com/Aluve-Software/api_support</url>
+          <url>https://maven.pkg.github.com/Aluve-Software/api</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
