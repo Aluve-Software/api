@@ -139,6 +139,8 @@ public class Request {
                 return request().when().redirects().follow(true).put(endPoint);
             case "DELETE":
                 return request().when().redirects().follow(true).delete(endPoint);
+            case "PATCH":
+                return request().when().redirects().follow(true).patch(endPoint);
             default:
                 return request().when().redirects().follow(true).get(endPoint);
         }
