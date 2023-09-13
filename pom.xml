@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>tech.aluvesoftware</groupId>
-    <artifactId>api</artifactId>
+    <artifactId>api_eqa</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
     <properties>
