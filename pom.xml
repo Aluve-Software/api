@@ -18,7 +18,7 @@
         <repository>
             <id>github</id>
             <name>aluve-software</name>
-            <url>https://maven.pkg.github.com/Aluve-Software/api_support</url>
+            <url>https://maven.pkg.github.com/Aluve-Software/api</url>
         </repository>
     </distributionManagement>
 
@@ -34,11 +34,6 @@
             <artifactId>lombok</artifactId>
             <version>1.18.26</version>
             <scope>provided</scope>
-        </dependency>
-        <dependency>
-          <groupId>tech.aluvesoftware</groupId>
-          <artifactId>web_cox</artifactId>
-          <version>1.0.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
